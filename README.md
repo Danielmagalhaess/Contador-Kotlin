@@ -22,8 +22,8 @@ O **Contador-Kotlin** é um projeto simples criado com a linguagem Kotlin, como 
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Kotlin** (100%) :contentReference[oaicite:0]{index=0}  
-- **Gradle** (via Kotlin DSL) para build e gerenciamento de dependências :contentReference[oaicite:1]{index=1}
+- **Kotlin** (100%)
+- **Gradle** (via Kotlin DSL) para build e gerenciamento de dependências
 
 ---
 

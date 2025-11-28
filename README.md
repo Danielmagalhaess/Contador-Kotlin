@@ -11,7 +11,6 @@ Um pequeno projeto em **Kotlin** que implementa um contador — útil como exerc
 - [Pré-requisitos](#-pré-requisitos)  
 - [Como Rodar Localmente](#-como-rodar-localmente)  
 - [Funcionalidades](#-funcionalidades)  
-- [Estrutura de Pastas](#-estrutura-de-pastas)  
 
 ---
 
